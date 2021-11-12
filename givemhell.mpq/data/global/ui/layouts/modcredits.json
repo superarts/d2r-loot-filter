@@ -1,0 +1,82 @@
+{
+    "type": "HelpPanel", "name": "modcredits",
+    "fields": {
+        "priority": 300,
+        "fitToParent": true,
+        "childFormats": [
+        ],
+    },
+    "children": [
+        {
+            "type": "RectangleWidget", "name": "TransparentBG",
+            "fields": {
+                "fitToScreen": true,
+                "color": [ 0.0, 0.0, 0.0, 0.6 ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget", "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },  
+            ]
+        },
+        {
+            "type": "Widget", "name": "CenterSection",
+            "fields": {
+                "anchor": { "x": 0.5, "y": 0.5 },
+                "rect": { "x": -45, "y": -785 },
+            },
+            "children": [
+
+                // Text
+                {
+                    "type": "TextBoxWidget", "name": "Title",
+                    "fields": {
+                        "rect": { "x": 0, "y": -150 },
+                        "text": "Credits",
+                        "style": {
+                            "fontColor": "$FontColorGoldYellow",
+                            "pointSize": "$ExtraLargeFontSize",
+                            "alignment": { "v": "center", "h": "center" }
+                        }
+                    }
+                },
+                {
+                    "type": "TextBoxWidget", "name": "ModCredits",
+                    "fields": {
+                        "rect": { "x": -450, "y": 75, "width": 860, "height": 600  },
+                        "text": " D2R ESP  -  made by n1maa\n Minimalistic pictograms  -  made by deadjack133\n Cube Recipes  -  made by deliorion\n Glowing Runes  -  made by pakon\n Better Potion Visibility  -  made by sandmaen\n Assassin Retouch & Amazon Retouch -  made by YoloSwag0816 \n Conetopia  - Testing, Suggestions, Support\n ΔΞΟΠ  - Testing, Suggestions, Support\n ArtemisKhros - Support\n Givemhell - Repack ",
+                        "fontType": "15ptF",
+                        "style": {
+                            "fontColor": { "r": 175, "g": 183, "b": 255, "a": 250 },
+                            "pointSize": 23,
+							"options": { "newlineHandling": "standard" , "lineWrap": true },
+							"alignment": { "h": "left" },
+							"spacing": { "leading": 1.2 }
+                        }
+                    }
+                },
+                {
+                    "type": "ButtonWidget", "name": "Close",
+                    "fields": {
+						"anchor": { "x": 0.5 },
+                        "rect": { "x": 600, "y": 1500 },
+						"filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonSmall_r",
+						"textString": "close",
+						"focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonSmall_Hover",
+						"focusIndicatorOffset": { "x": 0, "y": 0 },
+						"onClickMessage": "PanelManager:ClosePanel:modcredits",
+						"text/style": "$StyleFEButtonText",
+						"pointSize": "$NormalFontSize",
+						"textColor": { "r": 175, "g": 183, "b": 255, "a": 250 },
+                        "tooltipString": "@strClose",
+                        "sound": "cursor_close_window_hd",
+						"acceptsEscKeyEverywhere": true
+                    }
+                },
+            ]
+        },
+    ]
+}
