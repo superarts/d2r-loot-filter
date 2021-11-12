@@ -13,7 +13,9 @@ This repo contains modified versions of d2r filters. Go to the original websites
   - [Installation](#installation)
     - [Geek?](#geek)
   - [Loading](#loading)
-- [givemhell](#givemhell)
+- [Mods](#mods)
+  - [My customization](#my-customization)
+  - [givemhell](#givemhell)
 - [Contribute](#contribute)
 - [Donation](#donation)
 - [Special Thanks](#special-thanks)
@@ -61,7 +63,16 @@ Now you should have some folder structures like `C:\Program Files (x86)\Diablo 2
 
 After launching the game, all your settings are reset, including options, custom key bindings etc.
 
-## givemhell
+## Mods
+
+### My customization
+
+Different Git branches are used to manage my customization. Since I just started working on these, everything is subjected to change.
+
+- `master`: original mods
+- `end-game`: less potions, gems are less obvious.
+
+### givemhell
 
 Original version: [NexusMods](https://www.nexusmods.com/diablo2resurrected/mods/102?tab=description)
 
