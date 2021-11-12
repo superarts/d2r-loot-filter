@@ -1,5 +1,7 @@
 # Diablo II Resurrected Loot Filters
 
+This repo contains modified versions of d2r filters. Go to the original websites to download original versions.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
@@ -9,6 +11,7 @@
   - [Why you don't want to use it](#why-you-dont-want-to-use-it)
 - [How to install / load a mod](#how-to-install--load-a-mod)
   - [Installation](#installation)
+    - [Geek?](#geek)
   - [Loading](#loading)
 - [givemhell](#givemhell)
 - [Contribute](#contribute)
@@ -45,6 +48,11 @@
 - Copy an `mpq` folder, e.g. `givemhell.mpq` to the folder you created above.
 
 Now you should have some folder structures like `C:\Program Files (x86)\Diablo 2 Resurrected\mods\givemhell\givemhell.mpq` and a bunch of files inside it.
+
+#### Geek?
+
+- `cd 'C:/Program Files (x86)/Diablo 2 Resurrected'`
+- `git clone git@github.com:superarts/d2r-loot-filter.git mods`
 
 ### Loading
 
