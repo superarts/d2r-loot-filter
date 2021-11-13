@@ -2,6 +2,10 @@
 
 This repo contains modified versions of d2r filters. Go to the original websites to download original versions.
 
+IMPORTANT: I decide to stop using this mods [because I don't feel safe](https://www.reddit.com/r/Diablo/comments/qt208l/if_you_are_using_a_loot_filter_it_may_not_be_as/). If you want to display text for full potions and disable clipped / flawed / normal gems text, please check out my ["end-game" branch](https://github.com/superarts/d2r-loot-filter/tree/end-game) in this repo, if you decide to take the risk.
+
+If you like my input on this matter, please [consider donate some fg](#donation).
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
