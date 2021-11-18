@@ -65,7 +65,19 @@ After launching the game, all your settings are reset, including options, custom
 
 ## Mods
 
-### My customization
+### My loot filter
+
+WIP: `superarts` loot filter
+
+Goals:
+
+- Only minimum changes to things I absolutely hate
+- Less changes, less risk to get banned (although probably it wouldn't really matter)
+- Include price guide
+
+### My customization (deprecated)
+
+*I was planning to branch other's loot filters, but realized that I just want bare minimum changes myself so stopped using this approach. See section above for my personal filter.*
 
 Different Git branches are used to manage my customization. Since I just started working on these, everything is subjected to change.
 
@@ -75,6 +87,10 @@ Different Git branches are used to manage my customization. Since I just started
 ### givemhell
 
 Original version: [NexusMods](https://www.nexusmods.com/diablo2resurrected/mods/102?tab=description)
+
+### AlexisEvo/d2r-loot-filter
+
+Original version: [Github link](https://github.com/AlexisEvo/d2r-loot-filter)
 
 ## Contribute
 
@@ -89,3 +105,4 @@ Please send `fg` to [superarts](https://forums.d2jsp.org/user.php?i=1258378), an
 ### Modders
 
 - [Psikrotic](https://www.nexusmods.com/diablo2resurrected/users/39479425)
+- [AlexisEvo](https://github.com/AlexisEvo)
