@@ -86,11 +86,15 @@ Different Git branches are used to manage my customization. Since I just started
 
 ### givemhell
 
-Original version: [NexusMods](https://www.nexusmods.com/diablo2resurrected/mods/102?tab=description)
+[NexusMods link](https://www.nexusmods.com/diablo2resurrected/mods/102?tab=description)
 
 ### AlexisEvo/d2r-loot-filter
 
-Original version: [Github link](https://github.com/AlexisEvo/d2r-loot-filter)
+[Github link](https://github.com/AlexisEvo/d2r-loot-filter)
+
+### SeonEngineer
+
+[Github link](https://github.com/SeonEngineer/D2R)
 
 ## Contribute
 
