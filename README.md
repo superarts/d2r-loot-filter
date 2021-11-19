@@ -1,10 +1,8 @@
 # Diablo II Resurrected Loot Filters
 
-This repo contains modified versions of d2r filters. Go to the original websites to download original versions.
+While [I don't feel very safe](https://www.reddit.com/r/Diablo/comments/qt208l/if_you_are_using_a_loot_filter_it_may_not_be_as/) using these mods, Blizzard doesn't seem to care about these QOL changes at all. So I'm making my own mod, with minimum changes to minimize the risk.
 
-IMPORTANT: I decide to stop using this mods [because I don't feel safe](https://www.reddit.com/r/Diablo/comments/qt208l/if_you_are_using_a_loot_filter_it_may_not_be_as/). If you want to display text for full potions and disable clipped / flawed / normal gems text, please check out my ["end-game" branch](https://github.com/superarts/d2r-loot-filter/tree/end-game) in this repo, if you decide to take the risk.
-
-If you like my input on this matter, please [consider donate some fg](#donation).
+If you like my work, please [consider donate some fg](#donation).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -18,8 +16,11 @@ If you like my input on this matter, please [consider donate some fg](#donation)
     - [Geek?](#geek)
   - [Loading](#loading)
 - [Mods](#mods)
-  - [My customization](#my-customization)
+  - [My loot filter](#my-loot-filter)
+  - [My customization (deprecated)](#my-customization-deprecated)
   - [givemhell](#givemhell)
+  - [AlexisEvo/d2r-loot-filter](#alexisevod2r-loot-filter)
+  - [SeonEngineer](#seonengineer)
 - [Contribute](#contribute)
 - [Donation](#donation)
 - [Special Thanks](#special-thanks)
