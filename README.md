@@ -18,7 +18,6 @@ If you like my work, please [consider donate some fg](#donation).
 - [Mods](#mods)
   - [My loot filter](#my-loot-filter)
   - [My customization (deprecated)](#my-customization-deprecated)
-  - [givemhell](#givemhell)
   - [AlexisEvo/d2r-loot-filter](#alexisevod2r-loot-filter)
   - [SeonEngineer](#seonengineer)
 - [Contribute](#contribute)
@@ -51,10 +50,10 @@ If you like my work, please [consider donate some fg](#donation).
 
 - Clone this repo, or download as zip & extract it.
 - Go to your d2r folder (try to find `Diablo 2 Resurrected` under a default location, `C:\Program Files\` or `C:\Program Files (x86)`).
-- Create `mods\MOD_NAME` folders, e.g. `mods\givemhell`.
-- Copy an `mpq` folder, e.g. `givemhell.mpq` to the folder you created above.
+- Create `mods\MOD_NAME` folders, e.g. `mods\superarts`.
+- Copy an `mpq` folder, e.g. `superarts.mpq` to the folder you created above.
 
-Now you should have some folder structures like `C:\Program Files (x86)\Diablo 2 Resurrected\mods\givemhell\givemhell.mpq` and a bunch of files inside it.
+Now you should have some folder structures like `C:\Program Files (x86)\Diablo 2 Resurrected\mods\superarts\superarts.mpq` and a bunch of files inside it.
 
 #### Geek?
 
@@ -64,7 +63,7 @@ Now you should have some folder structures like `C:\Program Files (x86)\Diablo 2
 ### Loading
 
 - Go to Battle.net or Diablo 2 Resurrected launcher, go to D2R, and edit game settings (next to "Play" button).
-- Add `-mod givemhell -txt` as "command line argument".
+- Add `-mod superarts -txt` as "command line argument".
 
 After launching the game, all your settings are reset, including options, custom key bindings etc.
 
@@ -88,10 +87,6 @@ Different Git branches are used to manage my customization. Since I just started
 
 - `master`: original mods
 - `end-game`: less potions, gems are less obvious.
-
-### givemhell
-
-[NexusMods link](https://www.nexusmods.com/diablo2resurrected/mods/102?tab=description)
 
 ### AlexisEvo/d2r-loot-filter
 
