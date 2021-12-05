@@ -79,14 +79,14 @@ Goals:
 - Less changes, less risk to get banned (although probably it wouldn't really matter)
 - Include price guide
 
-### My customization (deprecated)
+### My customization (deprecated and removed)
 
 *I was planning to branch other's loot filters, but realized that I just want bare minimum changes myself so stopped using this approach. See section above for my personal filter.*
 
-Different Git branches are used to manage my customization. Since I just started working on these, everything is subjected to change.
+~~Different Git branches are used to manage my customization. Since I just started working on these, everything is subjected to change.~~
 
-- `master`: original mods
-- `end-game`: less potions, gems are less obvious.
+~~- `master`: original mods~~
+~~- `end-game`: less potions, gems are less obvious.~~
 
 ### AlexisEvo/d2r-loot-filter
 
