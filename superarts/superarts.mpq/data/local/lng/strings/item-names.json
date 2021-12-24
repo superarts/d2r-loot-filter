@@ -5340,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc2*ÿc2Perfect ÿc20Sapphire",
+    "enUS": "ÿc2*ÿc2Perfect ÿc0Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5476,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc2*ÿc2Perfect ÿc20Ruby",
+    "enUS": "ÿc2*ÿc2Perfect ÿc0Ruby",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5629,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "Super Healing Potion",
+    "enUS": "ÿc2*ÿc2Super ÿc0Healing Potion",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5714,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "Super Mana Potion",
+    "enUS": "ÿc2*ÿc2Super ÿc0 Mana Potion",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
