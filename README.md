@@ -106,6 +106,8 @@ Please send `fg` to [superarts](https://forums.d2jsp.org/user.php?i=1258378), an
 
 ## Special Thanks
 
+- Thank you [meilk](https://forums.d2jsp.org/pm.php?c=3&m=413611298) for your support!
+
 ### Modders
 
 - [Psikrotic](https://www.nexusmods.com/diablo2resurrected/users/39479425)
